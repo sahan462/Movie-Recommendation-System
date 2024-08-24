@@ -1,8 +1,8 @@
 # Movie Recommender System
 
-## Visit WebSite
+## Visit Website
 
-[Movie-Recommendor]([https://movie-recommendor-dsc.streamlit.app/])
+[Movie Recommender](https://movie-recommendor-dsc.streamlit.app/)
 
 ## Project Overview
 
