@@ -20,7 +20,7 @@ The Movie Recommender System is a content-based recommendation system designed t
 - **Streamlit**: Framework for creating the web application.
 - **Pandas**: Data manipulation and analysis.
 - **Requests**: For making API calls to retrieve movie posters.
-- **Heroku**: Platform for deploying the application.
+- **Streamlit**: Platform for deploying the application.
 
 ## Dataset
 
