@@ -1,5 +1,9 @@
 # Movie Recommender System
 
+## Visit WebSite
+
+- [Movie-Recommendor]([https://movie-recommendor-dsc.streamlit.app/])
+
 ## Project Overview
 
 The Movie Recommender System is a content-based recommendation system designed to suggest movies based on user preferences. This project uses movie metadata to recommend movies similar to a user's selected movie. The system is built with Python and Streamlit for the user interface and is deployed on Heroku.
@@ -24,10 +28,4 @@ The dataset used includes movie metadata that enables the recommendation system 
 
 - **Dataset Link**: [TMDb Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
-## Installation and Setup
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/campusx-official/m...
-   cd movie-recommender-system
