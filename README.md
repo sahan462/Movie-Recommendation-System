@@ -2,7 +2,7 @@
 
 ## Visit WebSite
 
-- [Movie-Recommendor]([https://movie-recommendor-dsc.streamlit.app/])
+[Movie-Recommendor]([https://movie-recommendor-dsc.streamlit.app/])
 
 ## Project Overview
 
